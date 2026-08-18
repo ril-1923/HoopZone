@@ -1,0 +1,20 @@
+{
+  "name": "hoopzone",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.11",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.2"
+  }
+}
